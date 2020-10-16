@@ -22,6 +22,8 @@ All pages should have the same:
     * This should be collapsed into a hamburger menu on small devices
 3. A footer with some relevant information
 4. Use one common css-file with @media rules for responsivity
+5. Each page should have a unique meta description, title, and h1.
+6. Your HTML and CSS code should validate: [HTML and CSS validator](https://validator.w3.org/nu/)
 
 Home page should have, in addition to the above:
 1. A (short form) About Me section (with read more link to About Me)
