@@ -12,6 +12,8 @@ The (initial) pages you need are:
 * About Me [with CV-style info]
 * Contact Me [with at least a contact form]
 
+Connect the site to a (new) Netlify site and add the Netlify-link to this Readme-file: (NAME OF YOUR SITE)[URL-TO-YOUR-SITE]
+
 ## Requirements
 
 All pages should have the same: 
