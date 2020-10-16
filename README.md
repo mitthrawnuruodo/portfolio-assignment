@@ -1,7 +1,7 @@
-# Portofolio site 101
+# Portfolio site 101
 
 ## Brief:
-Set up a (wireframe-like) portofolio-site in HTML and CSS.
+Set up a (wireframe-like) portfolio-site in HTML and CSS.
 
 The site should be responsive, and have versions for mobile, tablet and desktop.
 
